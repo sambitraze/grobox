@@ -23,6 +23,7 @@ class SearchForm extends StatelessWidget {
           suffixIcon: Padding(
             padding: const EdgeInsets.symmetric(
               vertical: defaultPadding / 2,
+              horizontal: defaultPadding/ 2,
             ),
             child: GestureDetector(
               onTap: () {},

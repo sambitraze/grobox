@@ -48,7 +48,7 @@ class CategoryCard extends StatelessWidget {
             const SizedBox(height: defaultPadding / 2),
             Text(
               title,
-              style: Theme.of(context).textTheme.subtitle2,
+              style: Theme.of(context).textTheme.titleSmall,
             ),
           ],
         ),
